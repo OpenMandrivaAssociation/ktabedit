@@ -3,7 +3,7 @@
 
 Name:           ktabedit 
 Version:        0.0.8
-Release:        %mkrel 1
+Release:        %mkrel 3
 Summary:        Powerful Tablature Editor for KDE
 License:        GPL
 Group:          Sound
