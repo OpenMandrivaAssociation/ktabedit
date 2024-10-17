@@ -7,7 +7,7 @@ Release:        %mkrel 5
 Summary:        Powerful Tablature Editor for KDE
 License:        GPL
 Group:          Sound
-URL:            http://ktabedit.sourceforge.net/
+URL:            https://ktabedit.sourceforge.net/
 # svn co svn://anonsvn.kde.org/home/kde/trunk/playground/multimedia/ktabedit/
 Source0:        http://downloads.sourceforge.net/sourceforge/ktabedit/ktabedit-%{svn_rev}.tar.bz2
 BuildRequires:  chrpath
